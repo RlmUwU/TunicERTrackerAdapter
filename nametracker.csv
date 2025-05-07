@@ -1,0 +1,254 @@
+Archipelago,Scipio
+overworld
+Stick House Entrance,stick_house
+Windmill Entrance,windmill
+Old House Waterfall Entrance,house_back
+Entrance to Furnace under Windmill,windmill_to_furnace
+Ruined Shop Entrance,ruined_shop
+Changing Room Entrance,changing_room
+Dark Tomb Main Entrance,darktomb_entry
+Secret Gathering Place Entrance,fairy_cave
+Overworld to Forest Belltower,forest_entry
+Overworld to Fortress,fortress_entry
+Patrol Cave Entrance,guard_patrol
+Stairs from Overworld to Mountain,stairs_to_mountain
+Temple Rafters Entrance,temple_rafters
+Overworld to Quarry Connector,quarry_entry
+Atoll Lower Entrance,atoll_lower
+Hourglass Cave Entrance,hourglass_cave
+Maze Cave Entrance,maze_cave
+Entrance to Furnace from Beach,beach_furnace
+Atoll Upper Entrance,atoll_upper
+Well Ladder Entrance,well_entry
+Entrance to Well from Well Rail,well_rail_n
+Entrance to Furnace from Well Rail,well_rail_s
+Old House Door Entrance,house_door
+West Garden Entrance near Belltower,wg_upper_entry
+Entrance to Furnace near West Garden,ow_wg_stairs_east,mark
+West Garden Entrance from Furnace,ow_wg_stairs_west
+Caustic Light Cave Entrance,rotating_lights
+Swamp Lower Entrance,swamp_lower_entry
+Swamp Upper Entrance,swamp_upper_entry
+Ruined Passage Door Entrance,ruined_hall_door
+Ruined Passage Not-Door Entrance,ruined_hall_not_door
+Special Shop Entrance,special_shop
+West Garden Laurels Entrance,wg_laurels_entry
+Temple Door Entrance,temple_door
+Fountain HC Door Entrance,fountain_hc
+Southeast HC Door Entrance,se_hc
+Town to Far Shore,town_portal
+Spawn to Far Shore,spawn_portal
+Cube Cave Entrance,cube_cave
+Purgatory Bottom Exit,purgatory_top
+Purgatory Top Exit,purgatory_bot
+Shop Portal 1,shop1
+Shop Portal 2,shop2
+Shop Portal 3,shop3
+Shop Portal 4,shop4
+Shop Portal 5,shop5
+Shop Portal 6,shop6
+Shop Portal 7,shop7
+Shop Portal 8,shop8
+
+overworld_interiors
+Secret Gathering Place Exit,int_fairy_cave
+Windmill Exit,int_windmill_front
+Windmill Shop,int_windmill_back
+Old House Door Exit,int_house_door,
+Old House to Glyph Tower,int_house_portal
+Old House Waterfall Exit,int_house_back
+Glyph Tower Exit,int_glyph_tower
+Changing Room Exit,int_changing_room
+Fountain HC Room Exit,int_fountain_hc
+Cube Cave Exit,int_cube_cave
+Guard Patrol Cave Exit,int_guard_patrol
+Ruined Shop Exit,int_ruined_shop
+Furnace Exit towards Well,int_furnace_to_well
+Furnace Exit to Dark Tomb,int_furance_to_tomb
+Furnace Exit towards West Garden,int_furnace_to_wg
+Furnace Exit to Beach,int_furnace_to_beach
+Furnace Exit under Windmill,int_furnace_to_windmill
+Stick House Exit,int_stick_house
+Ruined Passage Not-Door Exit,int_ruined_hall_not_door
+Ruined Passage Door Exit,int_ruined_hall_door
+Southeast HC Room Exit,int_se_hc
+Caustic Light Cave Exit,int_rotating_lights
+Maze Cave Exit,int_maze_cave
+Hourglass Cave Exit,int_hourglass_cave
+Special Shop Exit,int_special_shop
+Temple Rafters Exit,int_temple_rafters
+Temple Door Exit,int_temple_door
+
+east_forest
+Forest Belltower to Guard Captain Room,bell_to_boss
+Forest Belltower to Overworld,bell_to_ow
+Forest Belltower to Fortress,bell_to_fortress
+Forest Belltower to Forest,bell_to_forest
+Forest to Belltower,forest_to_belltower
+Forest Guard House 1 Lower Entrance,forest_gh1_lower
+Forest Guard House 1 Gate Entrance,forest_gh1_upper
+Forest Guard House 2 Upper Entrance,forest_to_gh2_upper
+Forest Grave Path Lower Entrance,forest_grave_lower
+Forest Grave Path Upper Entrance,forest_grave_upper
+Forest Dance Fox Outside Doorway,forest_dance_fox
+Forest to Far Shore,forest_portal
+Forest Guard House 2 Lower Entrance,forest_to_gh2_lower
+Forest Grave Path Upper Exit,grave_path_upper
+Forest Grave Path Lower Exit,grave_path_lower
+East Forest Hero's Grave,grave_path_grave
+Guard House 1 Dance Fox Exit,gh1_to_dance_fox
+Guard House 1 Lower Exit,gh1_to_forest_lower
+Guard House 1 Upper Forest Exit,gh1_to_forest_upper
+Guard House 1 to Guard Captain Room,gh1_to_boss
+Guard House 2 Upper Exit,gh2_upper
+Guard House 2 Lower Exit,gh2_lower
+Guard Captain Room Non-Gate Exit,boss_back
+Guard Captain Room Gate Exit,boss_front
+
+dark_tomb
+Dark Tomb to Overworld,dt_to_ow
+Dark Tomb to Checkpoint,dt_to_checkpoint
+Dark Tomb to Furnace,dt_to_furnace
+
+bottom_of_the_well
+Well Ladder Exit,well_to_ow
+Well to Well Boss,well_to_checkpoint
+Well Exit towards Furnace,well_to_furnace
+Well Boss to Well,boss_to_well,boss_to_well
+Checkpoint to Dark Tomb,dt_checkpoint
+
+west_garden
+West Garden Exit near Hero's Grave,wg_lower_exit
+West Garden to Magic Dagger House,dagger_exit
+West Garden Shop,wg_shop
+West Garden Exit after Boss,wg_upper_exit
+West Garden Laurels Exit,wg_laurels_exit
+West Garden Hero's Grave,grave
+West Garden to Far Shore,garden_portal
+Magic Dagger House Exit,dagger_exit
+
+beneath_the_earth
+Beneath the Earth to Fortress Interior,bte_to_interior
+Beneath the Earth to Fortress Courtyard,bte_to_exterior
+
+fortress
+Fortress Courtyard to Fortress Grave Path Lower,fortress_grave_path_lower
+Fortress Courtyard to Fortress Interior,fortress_main_entry
+Fortress Courtyard to Fortress Grave Path Upper,fortress_grave_path_upper
+Fortress Courtyard to East Fortress,fortress_exterior_from_interior
+Fortress Courtyard Shop,fortress_shop
+Fortress Courtyard to Beneath the Earth,fortress_to_bte
+Fortress Courtyard to Forest Belltower,fortress_from_forest
+Fortress Courtyard to Overworld,fortress_from_overworld
+Fortress Interior Main Exit,fortress_main_exit
+Fortress Interior to Beneath the Earth,fortress_int_from_bte
+Fortress Interior Shop,fortress_int_shop
+Fortress Interior to East Fortress Upper,fortress_int_east_upper
+Fortress Interior to East Fortress Lower,fortress_int_east_lower
+Fortress Interior to Siege Engine Arena,fortres_gold_door
+East Fortress to Interior Lower,fortress_east_int_lower
+East Fortress to Courtyard,fortress_east_int_to_exterior
+East Fortress to Interior Upper,fortress_east_int_upper
+Fortress Grave Path Lower Exit,fortress_west_lower
+Fortress Grave Path Upper Exit,fortress_west_upper
+Fortress Grave Path Dusty Entrance,fortress_to_dusty
+Fortress Hero's Grave,fortress_grave
+Dusty Exit,dusty_exit
+Siege Engine Arena to Fortress,spidertank_exit
+Fortress to Far Shore,spidertank_portal
+
+atoll
+Atoll Upper Exit,atoll_upper_exit
+Atoll Shop,atoll_shop
+Atoll Lower Exit,atoll_lower_exit
+Atoll to Far Shore,atoll_portal
+Atoll Statue Teleporter,atoll_statue
+Frog Stairs Eye Entrance,atoll_frog_eye
+Frog Stairs Mouth Entrance,atoll_frog_mouth
+
+frogs
+Frog Stairs Eye Exit,frog_eye
+Frog Stairs Mouth Exit,frog_mouth
+Frog Stairs to Frog's Domain's Exit,frog_exit
+Frog Stairs to Frog's Domain's Entrance,frog_ladder_bot
+Frog's Domain Ladder Exit,frog_ladder_top
+Frog's Domain Orb Exit,frog_back_entry
+
+library
+Library Exterior Tree,library_tree
+Library Exterior Ladder,library_exterior_ladder
+Library Hall Bookshelf Exit,hall_from_exterior
+Library Hero's Grave,library_grave
+Library Hall to Rotunda,hall_ladder
+Library Rotunda Lower Exit,rotunda_lower
+Library Rotunda Upper Exit,rotunda_upper
+Library Lab to Rotunda,lab_lower
+Library to Far Shore,lab_portal
+Library Lab to Librarian Arena,lab_upper
+Librarian Arena Exit,librarian
+
+quarry
+Quarry Connector to Overworld,connector_to_ow
+Quarry Connector to Quarry,connector_to_quarry
+Quarry to Overworld Exit,quarry_to_connector
+Quarry Shop,quarry_shop
+Quarry to Monastery Front,monastery_entry
+Quarry to Monastery Back,monastery_side_entry
+Quarry to Mountain,quarry_to_mountain
+Quarry to Ziggurat,quarry_to_zig
+Quarry to Far Shore,quarry_portal
+Monastery Rear Exit,monastery_back_exit
+Monastery Front Exit,monastery_front_exit
+Monastery Hero's Grave,monastery_grave
+Stairs to Top of the Mountain,mountain_stairs
+Mountain to Quarry,mountain_to_quarry
+Mountain to Overworld,mountain_to_ow
+Top of the Mountain Exit,mountaintop
+
+swamp
+Swamp Lower Exit,swamp_lower
+Swamp Shop,swamp_shop
+Swamp to Cathedral Main Entrance,cath_door
+Swamp to Cathedral Secret Legend Room Entrance,swamp_hc_door
+Swamp to Gauntlet,gauntlet_entry
+Swamp Upper Exit,swamp_upper
+Swamp Hero's Grave,swamp_grave
+
+cathedral
+Cathedral Main Exit,cath_entry
+Cathedral Elevator,cath_elev_top
+Cathedral Secret Legend Room Exit,cath_hc_door
+Gauntlet to Swamp,gauntlet_exit
+Gauntlet Elevator,cath_elev_bot
+Gauntlet Shop,cath_shop
+
+ziggurat
+Ziggurat Entry Hallway to Ziggurat Upper,zig0_back
+Ziggurat Entry Hallway to Quarry,zig0_front
+Ziggurat Upper to Ziggurat Entry Hallway,zig1_back
+Ziggurat Upper to Ziggurat Tower,zig1_elev
+Ziggurat Tower to Ziggurat Upper,zig2_top
+Ziggurat Tower to Ziggurat Lower,zig2_bot
+Ziggurat Lower to Ziggurat Tower,zig3_front
+Ziggurat Portal Room Entrance,zig3_back
+Ziggurat Portal Room Exit,zig_portal_door
+Ziggurat to Far Shore,zig_portal_pad
+
+far_shore
+Far Shore to West Garden,west_garden
+Far Shore to Library,library
+Far Shore to Quarry,quarry
+Far Shore to East Forest,forest
+Far Shore to Fortress,vault
+Far Shore to Atoll,atoll
+Far Shore to Ziggurat,zig
+Far Shore to Heir,heir
+Far Shore to Town,town
+Far Shore to Spawn,spawn
+Hero's Grave to Fortress,fortress_grave
+Hero's Grave to Monastery,monastery_grave
+Hero's Grave to West Garden,garden_grave
+Hero's Grave to East Forest,forest_grave
+Hero's Grave to Library,library_grave
+Hero's Grave to Swamp,swamp_grave
+Heir Arena Exit,heir_exit
